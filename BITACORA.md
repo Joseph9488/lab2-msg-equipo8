@@ -1,4 +1,4 @@
-# Bitácora — Laboratorio 1
+# Bitácora — Laboratorio 2
 
 ## Equipo
 | Rol | Nombre | Usuario de GitHub |
